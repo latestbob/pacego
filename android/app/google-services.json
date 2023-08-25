@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "690702774818",
+    "project_id": "pacego-765cd",
+    "storage_bucket": "pacego-765cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690702774818:android:74b059ce2367ab1156107b",
+        "android_client_info": {
+          "package_name": "com.pacegotwo.edifice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690702774818-oevb6l3upsjsdqvls980unfh2ugn4ssc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgDz1l3DE2rH39TcM_NtikWyojkcPU2e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690702774818-oevb6l3upsjsdqvls980unfh2ugn4ssc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "690702774818-qhkm3erbjrkmq7tm397a565tsskjqru0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pacegotwo.edifice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
